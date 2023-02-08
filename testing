@@ -1,0 +1,22 @@
+<body>
+   <section>
+      <h1>
+        <This is a test!!>
+       </h1>
+        <snip-form key="35e23a60-a7fe-11ed-863d-c51f26163a42">
+          <form>
+            <input type="text">
+            <input type="text" name="first_name">
+            <input type="email" name="email">
+            <button type="submit">Submit</button>
+          </form>
+        </snip-form>
+      </your-page-element>
+   </section>
+   ---
+   ---
+   ---
+   <!--Paste at the bottom of your page -->
+<script src="https://cdn.snipform.io/wrap/sf.iife.js" defer></script>
+
+</body>
